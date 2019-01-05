@@ -193,6 +193,9 @@ tutorial, such as creating the public tenant and configuring shared and
 tenant specific apps. Complete instructions can be found at
 `django-tenant-schemas.readthedocs.io`_.
 
+# Roadmap
+* Add command to loaddata into specific tenant's models
+
 
 
 .. _django: https://www.djangoproject.com/
